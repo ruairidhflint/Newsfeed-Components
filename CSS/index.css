@@ -112,3 +112,15 @@ body {
   font-family: 'Roboto';
   background-color: #fffef7;
 }
+.readButton {
+  position: absolute;
+  left: 50%;
+  font-size: 12px;
+  color: grey;
+  cursor: pointer;
+  transform: translate(-50%);
+  background-color: white;
+}
+.hidden1 {
+  display: none;
+}
